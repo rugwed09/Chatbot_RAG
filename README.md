@@ -3,7 +3,7 @@ Build a RAG Chatbot using LangChain to augment responses with external knowledge
 
 # Building a RAG Chatbot with LangChain
 
-This project demonstrates how to build a Retrieval Augmented Generation (RAG) Chatbot using LangChain, a library for chaining together language models and other components to create sophisticated chatbot applications. The project leverages various tools and libraries, including OpenAI's GPT models, the Hugging Face datasets library, Pinecone for vector database management, and others.
+This project demonstrates how to build a Retrieval Augmented Generation (RAG) Chatbot using LangChain, a library for chaining together language models and other components to create sophisticated chatbot applications. The project leverages various tools and libraries, including OpenAI's GPT models, the Hugging Face datasets library, Pinecone for vector database management, and others.    
 
 ## Prerequisites
 
