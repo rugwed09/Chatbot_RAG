@@ -13,7 +13,7 @@ pip install -qU langchain==0.0.354 openai==1.6.1 datasets==2.10.1 pinecone-clien
 
 ## Building a Simple Chatbot (No RAG)
 Initially, we'll create a basic chatbot without retrieval augmentation. This involves using the ChatOpenAI class from LangChain, initialized with your OpenAI API key.
-
+  
 ##Interacting with the Chatbot
 Chat interactions with GPT models (e.g., gpt-3.5-turbo) follow a structured format where roles like "system", "user", and "assistant" define the flow of conversation. LangChain simplifies this with SystemMessage, HumanMessage, and AIMessage classes.
 
