@@ -5,7 +5,7 @@ Build a RAG Chatbot using LangChain to augment responses with external knowledge
 
 This project demonstrates how to build a Retrieval Augmented Generation (RAG) Chatbot using LangChain, a library for chaining together language models and other components to create sophisticated chatbot applications. The project leverages various tools and libraries, including OpenAI's GPT models, the Hugging Face datasets library, Pinecone for vector database management, and others.    
 
-## Prerequisites
+## Prerequisites   
 
 Before starting, ensure you have Python installed and are familiar with pip, Python's package installer. You'll need to install the following libraries:
 pip install -qU langchain==0.0.354 openai==1.6.1 datasets==2.10.1 pinecone-client==3.0.0 tiktoken==0.5.2
